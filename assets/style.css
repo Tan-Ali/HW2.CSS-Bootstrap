@@ -77,5 +77,10 @@ button {
     
 }
 
-
+footer {
+    background-color: rgb(85, 76, 76);
+    border-top: 10px solid #4aaaa5;
+    position: absolute;
+    right: 0; bottom: 0; left:0;
+}
 
