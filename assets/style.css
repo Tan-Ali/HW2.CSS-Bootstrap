@@ -1,2 +1,11 @@
 body {
     margin: 0;
+    background-color: green;
+}
+
+.navbar {
+    background-color: azure;
+    margin-bottom: 20 px;
+    padding: 0px;
+    border-bottom: 2px solid #cccccc;
+}
