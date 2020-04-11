@@ -1,3 +1,7 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 body {
     margin: 0;
     background-image: url("./images/background1.gif");
@@ -8,4 +12,23 @@ body {
     margin-bottom: 20 px;
     padding: 0px;
     border-bottom: 2px solid #cccccc;
+}
+
+h3 {
+    padding: 10px;
+    float: left;
+    display: inline-block;
+    background-color: #4aaaa5;
+    color: white;
+
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+.container {
+    margin-bottom: 100px;
+    color: dark rgb(82, 80, 80);
+    line-height: 2;
 }
