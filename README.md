@@ -20,3 +20,8 @@ In each of the html files, I used Bootstrap's Components to make the **Navbar**,
 
 The **Navbar** is consistant on each page.  The **links** on the **Navbar** all work.  Each html page uses semantic html labeling the **header**, **main body**, and **footer**. Each html file was validated by **Markup Validation Service**.  In the About page, I have a **bio**, **my name**, an **image** of myself, as well as a **link to my linkedin profile**.
 
+## Proof of Functional and Deployed Application
+
+![home page](assets/images/home.jpeg)
+
+
