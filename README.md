@@ -6,7 +6,7 @@ For this homework assignment we were to create three different html files.  In t
 Functional, deployed application
 GitHub repository with README describing the project
 Navbar must be consisten on each page
-Navbar on each page must contain links to About, Contact, and Portfolio pages
+Navbar on each page must contain links to Home, Contact, and Portfolio pages
 All links must work
 Must use semantic html
 Each page must have valid and correct HTML
@@ -22,6 +22,11 @@ The **Navbar** is consistant on each page.  The **links** on the **Navbar** all 
 
 ## Proof of Functional and Deployed Application
 
-![home page](assets/images/home.jpeg)
+![home page](assets/images/home.jpeg.png)
+
+From the home page we can click the **linkedin** link that will open on a new tab
+
+![linkedin profile](assets/images/linkedin.jpeg.png)
+
 
 
