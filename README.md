@@ -37,7 +37,16 @@ From the portfolio/home page we can click contact
 
 ![contact page](assets/images/contact.jpeg.png)
 
+Below are pictures of validating each html page
+
+**HOME**
+![home validation](assets/images/homehtml.jpeg.png)
 
 
+**PORTFOLIO**
+![portfolio validation](assets/images/portfoliohtml.jpeg.png)
+
+**CONTACT**
+![contact validation](assets/images/contacthtml.jpeg.png)
 
 
