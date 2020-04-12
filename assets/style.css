@@ -5,6 +5,8 @@
 body {
     margin: 0;
     background-image: url("./images/background1.gif");
+    padding-bottom: 5px;
+    height: 100%;
 }
 
 .navbar {
@@ -78,9 +80,13 @@ button {
 }
 
 footer {
-    background-color: rgb(85, 76, 76);
-    border-top: 10px solid #4aaaa5;
-    position: absolute;
-    right: 0; bottom: 0; left:0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: 6px solid #4aaaa5;
+    background-color: rgb(88, 82, 82);
+    color: white;
+    text-align: center;
 }
 
