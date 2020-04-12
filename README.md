@@ -22,12 +22,22 @@ The **Navbar** is consistant on each page.  The **links** on the **Navbar** all 
 
 ## Proof of Functional and Deployed Application
 
-![home page](assets/images/home.jpeg.png =24x48)
+![home page](assets/images/home.jpeg.png)
 
 From the home page we can click the **linkedin** link that will open on a new tab
 
 
-![linkedin profile](assets/images/linkedin.jpeg.png =24x48)
+![linkedin profile](assets/images/linkedin.jpeg.png)
+
+From the home page we can also click portfolio
+
+![portfolio page](assets/images/profile.jpeg.png)
+
+From the portfolio/home page we can click contact
+
+![contact page](assets/images/contact.jpeg.png)
+
+
 
 
 
