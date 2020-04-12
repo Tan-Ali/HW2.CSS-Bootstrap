@@ -22,11 +22,12 @@ The **Navbar** is consistant on each page.  The **links** on the **Navbar** all 
 
 ## Proof of Functional and Deployed Application
 
-![home page](assets/images/home.jpeg.png)
+![home page](assets/images/home.jpeg.png){:height="24px" width="48px"}
 
 From the home page we can click the **linkedin** link that will open on a new tab
 
-![linkedin profile](assets/images/linkedin.jpeg.png)
+
+![linkedin profile](assets/images/linkedin.jpeg.png){:height="24px" width="48px"}
 
 
 
