@@ -33,6 +33,13 @@ body {
     margin-right: 9%;
     margin-left: 9%;
 }
+.portfolioheader {
+    
+        margin: 5px;
+        color: #4aaaa5;
+        font-weight: bold;
+    
+}
 
 h3 {
     padding: 10px;
