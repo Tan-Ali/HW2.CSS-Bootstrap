@@ -22,7 +22,7 @@ I updated the portfolio with our recent project we completed as a team.  I also 
 
 ## Proof 
 
-![home page](assets/images/home.jpeg.png)
+![home page](assets/images/aboutME.png)
 
 From the home page we can click the **linkedin** link that will open on a new tab
 
@@ -31,22 +31,10 @@ From the home page we can click the **linkedin** link that will open on a new ta
 
 From the home page we can also click portfolio
 
-![portfolio page](assets/images/profile.jpeg.png)
+![portfolio page](assets/images/Portfolio.png)
 
 From the portfolio/home page we can click contact
 
-![contact page](assets/images/contact.jpeg.png)
-
-Below are pictures of validating each html page
-
-**HOME**
-![home validation](assets/images/homehtml.jpeg.png)
-
-
-**PORTFOLIO**
-![portfolio validation](assets/images/portfoliohtml.jpeg.png)
-
-**CONTACT**
-![contact validation](assets/images/contacthtml.jpeg.png)
+https://github.com/Tan-Ali
 
 
