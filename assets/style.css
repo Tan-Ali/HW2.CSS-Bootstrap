@@ -25,6 +25,9 @@ body {
     margin-top: 6%;
     opacity: .99;
 }
+.resume {
+    text-align: center;
+}
 
 .portfoliobox {
     margin-right: 9%;
