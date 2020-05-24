@@ -1,26 +1,26 @@
 # HW2.CSS-Bootstrap Description
+https://tan-ali.github.io/HW2.CSS-Bootstrap/
 
-For this homework assignment we were to create three different html files.  In these html files we created a navbar, a responsive layout, and responsive images.  While creating these things we were to use the Bootstrap's grid system and portfolio. Some of the minimum requirements include:
+For this homework assignment we were to update the portfolio, design and our GitHub/Linkedin profiles. Some of the minimum requirements include:
 
 ```
-Functional, deployed application
-GitHub repository with README describing the project
-Navbar must be consisten on each page
-Navbar on each page must contain links to Home, Contact, and Portfolio pages
-All links must work
-Must use semantic html
-Each page must have valid and correct HTML
-Must Contain your personalized information (bio, names, images, links to social media,etc.)
-Must properly utilize Bootstrap components and grid system
+Updated portfolio featuring project 1 and two exemplary homework assignments.
+
+
+Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments.
+
+
+Updated resume
+
+
+Updated LinkedIn profile
 ```
 
 ## Requirements Met
 
-In each of the html files, I used Bootstrap's Components to make the **Navbar**, **Cards**, and **Footer**.  I also used Bootstrap's grid system for the layouts including the **rows**, **columns**, **links**, and **photos**.
+I updated the portfolio with our recent project we completed as a team.  I also updated two homeworks in which I thought I did a exemplary job in.  I also updated my GitHub account along with my Linkedin profile.  I also uploaded my resume.
 
-The **Navbar** is consistant on each page.  The **links** on the **Navbar** all work.  Each html page uses semantic html labeling the **header**, **main body**, and **footer**. Each html file was validated by **Markup Validation Service**.  In the About page, I have a **bio**, **my name**, an **image** of myself, as well as a **link to my linkedin profile**.
-
-## Proof of Functional and Deployed Application
+## Proof 
 
 ![home page](assets/images/home.jpeg.png)
 
