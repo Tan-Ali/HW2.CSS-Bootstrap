@@ -19,28 +19,83 @@ body {
     text-align: center;  
     opacity: .7;
 }
+.projectOne {
+    height: 300px;
+    width: 350px;
+}
+.projectTwo {
+    height: 300px;
+    width: 350px;
+}
+.projectThree {
+    height: 300px;
+    width: 350px;
+}
+.projectFour {
+    height: 300px;
+    width: 350px;
+}
+.projectFive {
+    height: 300px;
+    width: 350px;
+}
+.projectSix {
+    height: 300px;
+    width: 350pxx;
+}
 
-/* .jumbotron {
-    margin: 0 5% 1% 5%;
-    margin-top: 6%;
-    opacity: 1%;
-} */
+.container-md {
+   width: 75%;
+   padding-bottom: 20%
+}
 .resume {
     text-align: center;
 }
 
 .portfolio {
-    margin-right: 9%;
-    margin-left: 9%;
+    margin-bottom: 10px;
     
 }
 .portfolioheader {
     
         margin: 5px;
         color: #4aaaa5;
-        font-weight: bold;
-    
+        font-weight: bold;    
 }
+
+.images{
+    position: relative;
+    float: left;
+    margin-bottom: 50px;
+}
+   
+   
+   .images div {
+    position: absolute;
+    background: #4aaaa5;
+    color: rgb(3, 3, 73);
+    margin-top: 5px; 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: visibility 0s, opacity 0.5s linear; 
+    transition: visibility 0s, opacity 0.5s linear;
+   }
+   
+   
+   .images:hover{
+    cursor: pointer;
+   }
+   
+   .images:hover div {
+    width: 345px;
+    height: 290px;
+    padding: 10px 15px;
+    visibility: visible;
+    opacity: 85%;
+   }
+
 
 h3 {
     padding: 10px;
@@ -75,19 +130,19 @@ h4 {
     float: left;
 }
 
-.badge {
+/* .badge {
     margin: 10px;
     border-radius: 5px;
     float: left;
-}
+} */
 
 
 
-.card-img-top {
+/* .card-img-top {
     margin-left: 2.5%;
     width: 300px;
     height: 200px;
-}
+} */
 
 button {
     margin: 10px;
