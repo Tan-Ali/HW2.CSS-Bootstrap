@@ -20,18 +20,19 @@ body {
     opacity: .7;
 }
 
-.jumbotron {
+/* .jumbotron {
     margin: 0 5% 1% 5%;
     margin-top: 6%;
     opacity: 1%;
-}
+} */
 .resume {
     text-align: center;
 }
 
-.portfoliobox {
+.portfolio {
     margin-right: 9%;
     margin-left: 9%;
+    
 }
 .portfolioheader {
     
