@@ -1,5 +1,5 @@
 # HW2.CSS-Bootstrap Description
-https://tan-ali.github.io/HW2.CSS-Bootstrap/
+https://tanman5.github.io/HW2.CSS-Bootstrap/
 
 For this homework assignment we were to update the portfolio, design and our GitHub/Linkedin profiles. Some of the minimum requirements include:
 
