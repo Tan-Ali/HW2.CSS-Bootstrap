@@ -27,7 +27,7 @@ I updated the portfolio with our recent project we completed as a team.  I also 
 From the home page we can click the **linkedin** link that will open on a new tab
 
 
-![linkedin profile](assets/images/linkedin.jpeg.png)
+![linkedin profile](assets/images/linkedin.png.png)
 
 
 
