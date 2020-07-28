@@ -18,23 +18,19 @@ Updated LinkedIn profile
 
 ## Requirements Met
 
-I updated the portfolio with our recent project we completed as a team.  I also updated two homeworks in which I thought I did a exemplary job in.  I also updated my GitHub account along with my Linkedin profile.  I also uploaded my resume.
+I updated the portfolio with our recent project we completed as a team.  I also updated the other four projects we could display in which I thought I did a exemplary job in.  I also updated my GitHub account along with my Linkedin profile.  I also uploaded my resume.
 
 ## Proof 
 
-![home page](assets/images/aboutME.png)
+![home page](assets/images/profExample.gif)
 
 From the home page we can click the **linkedin** link that will open on a new tab
 
 
 ![linkedin profile](assets/images/linkedin.jpeg.png)
 
-From the home page we can also click portfolio
 
-![portfolio page](assets/images/Portfolio.png)
 
-From the portfolio/home page we can click contact
 
-https://github.com/Tan-Ali
 
 
